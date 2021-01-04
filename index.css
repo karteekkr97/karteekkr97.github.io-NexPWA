@@ -1,5 +1,296 @@
-    * {
+* {
         box-sizing: border-box;
+    }
+    
+    .main-container1 {
+        position: relative;
+    }
+    
+    .one {
+        position: absolute;
+        bottom: 20px;
+        top: 20%;
+        left: 100px;
+        line-height: 0.5;
+        font-weight: 1200;
+        font-size: 32px;
+    }
+    
+    .btn {
+        color: white;
+        background: black;
+        border-radius: 50px;
+        border: none;
+        padding: 25px;
+        width: 60%;
+        font-size: 20px;
+    }
+    
+    .container1 {
+        position: relative;
+    }
+    
+    .two {
+        position: absolute;
+        top: 75%;
+        color: white;
+        left: 30px;
+        font-weight: 1200;
+        font-size: 18px;
+    }
+    
+    .container2 {
+        position: relative;
+    }
+    
+    .three {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 18px;
+        top: 75%;
+        left: 30px;
+    }
+    
+    .container3 {
+        position: relative;
+    }
+    
+    .four {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 18px;
+        top: 75%;
+        left: 30px;
+    }
+    
+    .container4 {
+        position: relative;
+    }
+    
+    .five {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 18px;
+        top: 75%;
+        left: 30px;
+    }
+    
+    .container5 {
+        position: relative;
+    }
+    
+    .six {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 18px;
+        top: 75%;
+        left: 30px;
+    }
+    
+    .container6 {
+        position: relative;
+    }
+    
+    .seven {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 18px;
+        top: 75%;
+        left: 30px;
+    }
+    
+    .container7 {
+        position: relative;
+    }
+    
+    .eight {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 25px;
+        line-height: 0.5;
+        top: 3%;
+        left: 30px;
+    }
+    
+    .btn1 {
+        color: white;
+        background: black;
+        border-radius: 50px;
+        border: none;
+        padding: 25px;
+        width: 100%;
+        font-size: 20px;
+    }
+    
+    .container8 {
+        position: relative;
+    }
+    
+    .nine {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 25px;
+        line-height: 0.5;
+        top: 10%;
+        left: 30px;
+    }
+    
+    .btn2 {
+        color: white;
+        background: black;
+        border-radius: 50px;
+        border: none;
+        padding: 25px;
+        width: 100%;
+        font-size: 20px;
+    }
+    
+    .main-container2 {
+        position: relative;
+    }
+    
+    .ten {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 32px;
+        line-height: 0.5;
+        top: 20%;
+        left: 100px;
+    }
+    
+    .btn3 {
+        color: white;
+        background: black;
+        border-radius: 50px;
+        border: none;
+        padding: 25px;
+        width: 60%;
+        font-size: 20px;
+    }
+    
+    .container9 {
+        position: relative;
+    }
+    
+    .eleven {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 14px;
+        width: 100%;
+        top: 82.5%;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    
+    .container10 {
+        position: relative;
+    }
+    
+    .twelve {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        text-align: center;
+        font-size: 14px;
+        top: 91.7%;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    
+    .container11 {
+        position: relative;
+    }
+    
+    .thirteen {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 12px;
+        width: 100%;
+        top: 85%;
+        text-align: center;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    
+    .container12 {
+        position: relative;
+    }
+    
+    .fourteen {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        text-align: center;
+        font-size: 12px;
+        top: 85%;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    
+    .container13 {
+        position: relative;
+    }
+    
+    .fifteen {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        text-align: center;
+        font-size: 14px;
+        top: 82.5%;
+        width: 100%;
+        background: rgba(0, 0, 0, 0.5);
+    }
+    
+    .container14 {
+        position: relative;
+    }
+    
+    .sixteen {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 20px;
+        line-height: 0.5;
+        top: 20%;
+        left: 20px;
+    }
+    
+    .container15 {
+        position: relative;
+    }
+    
+    .seventeen {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 20px;
+        line-height: 0.5;
+        top: 20%;
+        left: 20px;
+    }
+    
+    .container16 {
+        position: relative;
+    }
+    
+    .eighteen {
+        position: absolute;
+        color: white;
+        font-weight: 1200;
+        font-size: 20px;
+        line-height: 0.5;
+        top: 20%;
+        left: 20px;
     }
     
     .grid-container,
@@ -13,7 +304,7 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-auto-rows: minmax(200px, auto);
-        grid-gap: 30px;
+        grid-gap: 20px;
     }
     
     .container1 {
@@ -34,7 +325,8 @@
     
     img {
         width: 100%;
-        height: 100%;
+        margin: auto;
+        object-fit: cover;
     }
     
     .grid-container1 {
@@ -48,7 +340,7 @@
         display: grid;
         grid-template-columns: repeat(4, 1fr);
         grid-auto-rows: minmax(200px, auto);
-        grid-gap: 30px;
+        grid-gap: 50px;
     }
     
     .container10 {
@@ -60,7 +352,7 @@
         display: grid;
         grid-template-columns: 32% 32% 32%;
         grid-auto-rows: minmax(200px, auto);
-        grid-gap: 30px;
+        grid-gap: 25px;
     }
     
     @media (max-width: 800px) {
@@ -69,5 +361,27 @@
         .grid-container2,
         .grid-container3 {
             display: block;
+            margin: 0;
+        }
+        .grid-container1 {
+            padding: 0;
+        }
+        .one {
+            margin: 0;
+            padding: 0;
+            line-height: 0.5;
+            margin-left: -20%;
+            font-size: 20px;
+        }
+        .two {
+            margin: 0;
+            padding: 0;
+        }
+        .ten {
+            margin: 0;
+            padding: 0;
+            line-height: 0.5;
+            margin-left: -20%;
+            font-size: 20px;
         }
     }
